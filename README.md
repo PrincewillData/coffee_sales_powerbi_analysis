@@ -1,4 +1,4 @@
-Coffee Sales Dashboard (Power BI)
+Coffee Sales Analysis (Power BI)
 
 Objective  
 Analyze coffee sales data to track performance and identify trends.
@@ -12,7 +12,8 @@ Project Structure
 
 Process  
 - Built interactive dashboard in Power BI  
-- Analyzed sales performance and trends  
+- Analyzed sales performance and trends
+- Transformed and modeled data within Power BI
 
 Key Insights  
 - Identified top-performing products  
